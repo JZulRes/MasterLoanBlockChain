@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "MasterLoanBlockChain",
+    "packageName": "io.github.jhipster.masterloanblockchain",
+    "packageFolder": "io/github/jhipster/masterloanblockchain",
+    "serverPort": 8084,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "NmNlN2ZhNDFlNjcxNWQ4MmFkZDc5MjZiMmI1OWM4YWJkNjcwMjUwMjE5MDRiNDExMWE1YWRlZDk0NzhhYjA5ZTdhYWVhMzBlOTNhMjk5ZWRjMmYyZGVmOWU5NjVkYjAxZDM1OTkxMDU5NTU1ZDk3YzBjMTExYjQxMzc2NjRmZGQ=",
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "JZulRes",
+  "repository-name": "MasterLoanBlockChain"
+}
